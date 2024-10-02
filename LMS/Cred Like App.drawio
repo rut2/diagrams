@@ -161,11 +161,6 @@
         <mxCell id="uvxUSB1Xvvrj8T2XXiGX-51" value="Prometheus" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/prometheus-icon-256x253-jmmroxoq.png;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="760" y="900" width="60.71" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uvxUSB1Xvvrj8T2XXiGX-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uvxUSB1Xvvrj8T2XXiGX-55" target="2Y7ZVv_i2-TSbPOG7OzZ-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="226" y="952.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uvxUSB1Xvvrj8T2XXiGX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Lucida Console;flowAnimation=1;" parent="1" source="uvxUSB1Xvvrj8T2XXiGX-60" target="uvxUSB1Xvvrj8T2XXiGX-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -254,6 +249,9 @@
         </mxCell>
         <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/free-grafana-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944910.png;" vertex="1" parent="1">
           <mxGeometry x="211" y="910" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="2Y7ZVv_i2-TSbPOG7OzZ-41" target="uvxUSB1Xvvrj8T2XXiGX-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
