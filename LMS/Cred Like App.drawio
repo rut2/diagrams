@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="xrwfRLpsy3vQQKJvY3HK">
-    <mxGraphModel dx="1845" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,16 @@
           <mxGeometry x="40" y="500" width="1005" height="650" as="geometry" />
         </mxCell>
         <mxCell id="uvxUSB1Xvvrj8T2XXiGX-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Functional Requirements/Components&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;B2B2C (Bank as partners) to get user transaction data &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;B2B (Users should be able to upload transaction information through app &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;ETL Pipeline to process bank transactions &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Merchant Platform to manage campaigns &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;User application to receive offers from merchants&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="90" width="560" height="140" as="geometry" />
+          <mxGeometry x="-480" y="60" width="560" height="140" as="geometry" />
         </mxCell>
         <mxCell id="uvxUSB1Xvvrj8T2XXiGX-5" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="270" as="sourcePoint" />
-            <mxPoint x="800" y="270" as="targetPoint" />
+            <mxPoint x="-480" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uvxUSB1Xvvrj8T2XXiGX-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Phase #1 (The Early Stage)&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Cost Effective and faster time for market/users&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hybrid and Modular architecture for future scalability&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="40" y="340" width="560" height="98" as="geometry" />
+          <mxGeometry x="-480" y="310" width="560" height="98" as="geometry" />
         </mxCell>
         <mxCell id="uvxUSB1Xvvrj8T2XXiGX-11" value="&lt;font color=&quot;#000000&quot;&gt;Internet&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#1ba1e2;fontFamily=Lucida Console;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-200" y="537" width="69.19" height="47" as="geometry" />
@@ -201,7 +201,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;fontFamily=Lucida Console;dashed=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="2Y7ZVv_i2-TSbPOG7OzZ-20" target="2Y7ZVv_i2-TSbPOG7OzZ-30">
+        <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;flowAnimation=1;dashed=1;" edge="1" parent="1" source="2Y7ZVv_i2-TSbPOG7OzZ-20" target="2Y7ZVv_i2-TSbPOG7OzZ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-20" value="Amazon SNS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sns;rounded=1;fontFamily=Lucida Console;" vertex="1" parent="1">
@@ -211,7 +211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-30" value="System Users" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="451" width="200" height="218" as="geometry" />
+          <mxGeometry x="-470" y="501" width="200" height="218" as="geometry" />
         </mxCell>
         <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-32" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Lucida Console;" vertex="1" parent="2Y7ZVv_i2-TSbPOG7OzZ-30">
           <mxGeometry x="89" y="38" width="30" height="60" as="geometry" />
