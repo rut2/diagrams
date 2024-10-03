@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="xrwfRLpsy3vQQKJvY3HK">
-    <mxGraphModel dx="2591" dy="930" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1845" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvxUSB1Xvvrj8T2XXiGX-39" value="&lt;b&gt;&lt;u&gt;Production Observability&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontFamily=Lucida Console;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="uvxUSB1Xvvrj8T2XXiGX-39" value="&lt;span&gt;&lt;span&gt;Production Observability&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;fontFamily=Lucida Console;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1;spacingBottom=-24;" parent="1" vertex="1">
           <mxGeometry x="196" y="843" width="678" height="220" as="geometry" />
         </mxCell>
         <mxCell id="uvxUSB1Xvvrj8T2XXiGX-32" value="Amazon&#xa;Aurora" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.aurora;rounded=1;fontFamily=Lucida Console;" parent="1" vertex="1">
@@ -173,7 +173,7 @@
           <mxGeometry x="379" y="1492" width="145" height="82" as="geometry" />
         </mxCell>
         <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ETL Pipeline&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol style=&quot;&quot;&gt;&lt;li&gt;Extract Transaction from upload or bank APIs&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Normalize and Categorize transaction (entertainment, medical, other)&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Store Processed data in RDS/OLAP or Ware House (depending upon stage and Timestamp)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;align=left;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1309.5" width="222" height="297" as="geometry" />
+          <mxGeometry x="690" y="1309.5" width="319" height="297" as="geometry" />
         </mxCell>
         <mxCell id="2Y7ZVv_i2-TSbPOG7OzZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fontFamily=Lucida Console;" edge="1" parent="1" source="2Y7ZVv_i2-TSbPOG7OzZ-11" target="2Y7ZVv_i2-TSbPOG7OzZ-3">
           <mxGeometry relative="1" as="geometry" />
